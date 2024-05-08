@@ -1,1 +1,3 @@
-# workshop_repo
+# README
+## Description of the Pojrect
+## Contributors
